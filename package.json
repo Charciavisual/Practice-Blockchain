@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Charciavisual/Practice-Blockchain#readme",
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "tsc-watch": "^3.0.1",
     "typescript": "^3.6.3"
   }
