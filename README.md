@@ -14,7 +14,7 @@ npm init
 
 package.json 생성 확인
 
-```json
+```js
 {
   "name": "practice_blockchain",
   "version": "1.0.0",
@@ -35,7 +35,7 @@ package.json 생성 확인
 
 ### 3. Typescript config 설정
 
-```json
+```js
 {
   "compilerOptions": {
     "target": "es2015" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019' or 'ESNEXT'. */,
@@ -51,7 +51,7 @@ package.json 생성 확인
 
 **package.json**
 
-```json
+```js
 {
   ...
    "scripts": {
@@ -87,7 +87,7 @@ dist, src 디렉토리 생성 후 index.ts 파일을 src 디렉토리로 이동�
 
 **tsconfig.json 수정**
 
-```json
+```js
 {
   "compilerOptions": {
     ...
@@ -100,7 +100,7 @@ dist, src 디렉토리 생성 후 index.ts 파일을 src 디렉토리로 이동�
 
 **package.json 수정**
 
-```json
+```js
 {
   ...
   "scripts": {
