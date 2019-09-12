@@ -83,6 +83,7 @@ npm i tsc-watch --dev
 ```
 
 tsc-watch를 사용하면 글로벌로 설치한 typescript를 찾지 못하는 버그가 있기 때문에 프로젝트에 typescript를 설치해준다.
+
 dist, src 디렉토리 생성 후 index.ts 파일을 src 디렉토리로 이동시킨다.
 
 **tsconfig.json 수정**
